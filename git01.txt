@@ -1,0 +1,2 @@
+git init 初始化git仓库
+git status 查看git仓库状态
